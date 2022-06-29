@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "crypto/" : "https://deno.land/std@0.145.0/crypto/"
+  }
+}
