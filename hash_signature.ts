@@ -1,5 +1,5 @@
 import { Signature } from "./signature.ts";
-import { crypto } from "crypto/mod.ts";
+import { crypto } from "https://deno.land/std@0.145.0/crypto/mod.ts";
 
 import { decoder, encoder } from "./common/encoding/mod.ts";
 
